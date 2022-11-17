@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.wordWrap": "on", // Commonly Used
+		"editor.detectIndentation": false, // Indentation Formatting
+		"editor.insertSpaces": false, // Commonly Used
+		"editor.defaultFormatter": "esbenp.prettier-vscode", // Text Editor (Prettier requested)
+		"editor.renderWhitespace": "all", // Text Editor (Visual & optional)
+		"editor.formatOnPaste": true, // Text Editor - Formatting
+		"editor.formatOnSave": true, // Text Editor - Formatting
+		"files.trimFinalNewlines": true, // Text Editor - Files
+		"files.insertFinalNewline": true, // Text Editor - Files
+		"prettier.useTabs": true, // Text Editor - Tabs Allowed
+		"liveServer.settings.multiRootWorkspaceName": "lucasys",
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#f2b1be",
+			"activityBar.background": "#f2b1be",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#2e8917",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"commandCenter.border": "#15202b99",
+			"sash.hoverBorder": "#f2b1be",
+			"statusBar.background": "#ea869a",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#e25b76",
+			"statusBarItem.remoteBackground": "#ea869a",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#ea869a",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#ea869a99",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.color": "#ea869a" // Short project name
+	}
+}
